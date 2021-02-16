@@ -9,7 +9,7 @@
 <body>
     <div class="container">
         <div class="row">
-            <div class="col-12 col-sm-12 col-md-12">
+            <div class="col-12 col-sm-6 col-md-12">
                 <table class="table">
                     <tr><h2>LOGIN</h2></tr>
                 <tr>
